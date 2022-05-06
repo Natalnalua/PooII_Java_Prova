@@ -1,4 +1,4 @@
-Projeto POO II Prova
+Projeto POO II - Prova
 
 
 Resolução das questões da prova final da N1 da disciplina de Programação Orientada a Objeto II, do curso de Sistemas de Informação (IFCE- Campus Crato).
